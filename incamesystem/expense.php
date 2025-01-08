@@ -37,7 +37,7 @@ include('inc/header.php');
 				</div>
 			</div>
 		</div>
-		<!-- <table id="expenseListing" class="table table-bordered table-striped">
+		<table id="expenseListing" class="table table-bordered table-striped">
 			<thead>
 				<tr>						
 					<th>Sn.</th>					
@@ -48,7 +48,7 @@ include('inc/header.php');
 					<th></th>					
 				</tr>
 			</thead>
-		</table> -->
+		</table>
 	</div>
 	
 	<div id="expenseModal" class="modal fade">
